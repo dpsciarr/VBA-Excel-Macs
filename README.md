@@ -19,3 +19,7 @@ Note: All Macros and Userforms were created using Microsoft Excel 2010.
 1. **Form_CreateNamedRange**
 
     Used to easily create Named Ranges for developing multi-sheet and multi-workbook Excel applications. So far only static ranges can be built.
+
+2. **Form_HotkeyAssignment**
+
+    Used to quickly assign or remove a hotkey to a macro, chosen from a list of macros from the Miniature_Macs.bas file. Utilizes Functions.bas to fetch macro names.
